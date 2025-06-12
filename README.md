@@ -17,7 +17,7 @@
 <br><br>
   
   ## Languages:
-[![Lenguages](https://skillicons.dev/icons?i=html,css,javascript,java,python,c,cpp,php,theme=light)](https://skillicons.dev)
+[![Lenguages](https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,php,theme=light)](https://skillicons.dev)
 
   ## Database
 [![Database](https://skillicons.dev/icons?i=mysql,postgres,theme=light)](https://skillicons.dev)
