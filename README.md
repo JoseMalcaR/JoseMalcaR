@@ -13,7 +13,9 @@
 - Looking for a job.
 
 
-<br><br>
+## 🚀 Mi Portafolio
+
+[![Ver Portafolio](https://img.shields.io/badge/Portafolio-Ver%20Ahora-blue?style=for-the-badge)]([https://tu-portfolio.com](https://portafolio-josemalca.netlify.app))
   
   ## Languages:
 [![Lenguages](https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,php,theme=light)](https://skillicons.dev)
@@ -32,8 +34,7 @@
 
 
 
-  ## Redes Sociales 
-  
+  ## Social Networks
   <p>
    <a href ="https://www.linkedin.com/in/jose-malca/"> <img width="80" height="80" src="https://img.icons8.com/cute-clipart/64/linkedin.png" alt="linkedin"/> </a>
   </p>
@@ -50,7 +51,3 @@
 [![](https://visitcount.itsvg.in/api?id=manuxxrsb&label=Visitantes&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)  
 </div>
 
-<!---
-Manuxxrsb/Manuxxrsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
