@@ -15,7 +15,7 @@
 
 ## 🚀 Mi Portafolio
 
-[![Ver Portafolio](https://img.shields.io/badge/Portafolio-Ver%20Ahora-blue?style=for-the-badge)](https://portafolio-josemalca.netlify.app))
+[![Ver Portafolio](https://img.shields.io/badge/Portafolio-Ver%20Ahora-blue?style=for-the-badge)](https://portafolio-josemalca.netlify.app)
   
   ## Languages:
 [![Lenguages](https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp,php,theme=light)](https://skillicons.dev)
